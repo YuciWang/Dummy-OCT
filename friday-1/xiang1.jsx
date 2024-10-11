@@ -7,6 +7,6 @@ function{(
 sdcosimc
 cdskd
 const
-console.log.xiang2
+console.log.xiang-main
 
 fctfurtuc
