@@ -1,14 +1,6 @@
-xiang1
-jhbijn
-uhbii
-function{(
-	)
+xiang1;
+jhbijn;
+uhbii;
+function friday() {
+	return 'hello world';
 }
-sdcosimc
-cdskd
-const
-
-console.log.xiang-main
-coisjdcweijc
-weiuhwec
-
